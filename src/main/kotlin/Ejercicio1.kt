@@ -27,9 +27,7 @@ class Rectangulo (var base2 : Double, var altura : Double) {
         return this.base2.toString()
     }
 
-    15 h
-    25 2h
-    36 3h
+
 
     fun setBaseData(newBase : Double){
         this.base2 = newBase
